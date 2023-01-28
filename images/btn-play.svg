@@ -1,0 +1,27 @@
+<svg id="btn-play" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #ff4f4f;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #ff4f4f;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Oval" class="cls-1">
+    <circle class="cls-3" cx="15" cy="15" r="15"/>
+    <circle class="cls-4" cx="15" cy="15" r="14.5"/>
+  </g>
+  <path id="Path_5" data-name="Path 5" class="cls-2" d="M1.543.381A1,1,0,0,0,0,1.221V8.779a1,1,0,0,0,1.543.84L7.391,5.84a1,1,0,0,0,0-1.68Z" transform="translate(12 10)"/>
+</svg>
